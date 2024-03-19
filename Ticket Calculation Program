@@ -1,0 +1,15 @@
+// ---------------------------------------------------------------
+// Programming Assignment:	LAB1B
+// Developer:			          Amanda Bradley
+// Date Written:			      11/13/2020
+// Purpose:				          Ticket Calculation Program 
+// ---------------------------------------------------------------
+
+
+int main()
+{
+	for (int i = 10; i < 30; i = i + 5);
+	{
+		cout << i * 3.9;
+	}
+}
